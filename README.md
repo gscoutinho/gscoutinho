@@ -1,49 +1,51 @@
-# Hi there, I'm Gabriel Coutinho 👋
+# Gabriel Coutinho
 
-## About Me
+## Professional Overview
 
-I'm a passionate software engineer with over 6 years of experience in Control and SCADA systems, Renewable Energies, and Industrial processes. My expertise spans across wind, solar, hydro, and hybrid power plants. I'm also well-versed in Agile Scrum project management and development methodology.
+Control & Automation engineer with extensive experience in SCADA and control systems, renewable energy infrastructure, and industrial automation. Currently working at Ulteig, contributing to engineering and software solutions in the energy sector.
 
-- 💼 Currently open to new opportunities in data science and software engineering.
-- 🎓 Pursuing an MBA with a focus on utilizing machine learning techniques for stock prediction based on financial statements.
-- 🌍 Based in Brazil.
+## Current Position
 
-## Skills
+**System Integrator** at Ulteig
 
-- **Programming Languages:** Python, JavaScript, C#, Go, HTML, CSS
-- **Frameworks and Libraries:** Vue.js, Next.js, Pandas, Matplotlib, Node.js, Express.js
-- **Tools and Platforms:** Git, Docker, Kubernetes, VMWare vSphere
-- **Specialties:** SCADA Systems, Industrial Cybersecurity, Network Design, Agile Scrum
+Engaged in developing and maintaining SCADA software systems and Plant Controllers for engineering and renewable energy projects, with focus on automation, control systems, and energy management solutions.
 
-## Projects
+## Technical Skills
 
-### [Finance App](https://github.com/gscoutinho/financeapp)
-A personal finance management application built with Vue.js. The app allows users to track expenses, set budgets, and analyze spending patterns.
+**Programming Languages**
+- Python
+- JavaScript
+- Go (Golang)
 
-### [Machine Learning Stock Prediction](https://github.com/gscoutinho/ml-stock-prediction)
-A project that uses machine learning algorithms to predict stock prices based on financial data from 10-Q filings and historical stock prices.
+**Specializations**
+- SCADA Systems Design and Implementation
+- Renewable Energy Systems (Solar, Wind, Hydro, Hybrid)
+- Industrial Automation and Control
+- Network Design and System Architecture
 
-### [SCADA System for Renewable Energy](https://github.com/gscoutinho/scada-renewable)
-A comprehensive SCADA system designed for monitoring and controlling renewable energy plants, including wind, solar, and hydroelectric power plants.
+**PLC & Automation Platforms**
+- Schneider Modicon (M340, M580 processor)
+- SEL RTAC programming (RTAC 3555/3560)
+- SCADA Systems: Elipse and Ignition
 
-## GitHub Stats
+**Tools and Technologies**
+- Git
+- Docker
+- Kubernetes
+- VMWare vSphere
+- Agile Development Methodologies
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gscoutinho&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gscoutinho&layout=compact&theme=radical)
+## Professional Focus
 
-## Connect with Me
+My career is centered on delivering robust solutions for energy infrastructure and industrial control systems. I combine software development expertise with deep understanding of SCADA systems, energy substations and renewable energy technologies to develop scalable automation solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-gabriel-coutinho/)
-[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gabrielcoutinho.me/)
+Key competencies include:
+- SCADA system architecture and implementation
+- Renewable energy plant monitoring and control
+- Industrial process automation
+- Cross-platform software development
+- Systems integration and deployment
 
-## Recent Activity
+## Contact
 
-<!--START_SECTION:activity-->
-1. 🎉 Opened a new issue in [gscoutinho/financeapp](https://github.com/gscoutinho/financeapp/issues/1)
-2. 🚀 Pushed 10 commits to [gscoutinho/ml-stock-prediction](https://github.com/gscoutinho/ml-stock-prediction)
-3. 💬 Commented on [#2](https://github.com/gscoutinho/scada-renewable/issues/2) in [gscoutinho/scada-renewable](https://github.com/gscoutinho/scada-renewable)
-<!--END_SECTION:activity-->
-
----
-
-⭐️ From [gscoutinho](https://github.com/gscoutinho)
+LinkedIn: [eng-gabriel-coutinho](https://www.linkedin.com/in/eng-gabriel-coutinho/)
